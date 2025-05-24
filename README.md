@@ -52,4 +52,8 @@ Evaluated on a held-out test set:
    ```bash
    python main.py
    ```
+## 🔖 Certification
+
+This project was completed as part of the **Data Intelligence Micro-Credential** issued by Purdue University Global.  
+🎓 [View Verified Credential](https://api.badgr.io/public/assertions/SoeCYMQwQtyYtAMRCpvmbQ?identity_email=ck106194%40hotmail.com)
 
